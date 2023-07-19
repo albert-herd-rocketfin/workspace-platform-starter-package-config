@@ -12,9 +12,9 @@
 	"platform": {
 		"name": "workspace-starter-how-to-workspace-platform-starter",
 		"uuid": "workspace-platform-starter",
-		"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+		"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 		"autoShow": false,
-		"providerUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/platform/provider.html",
+		"providerUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/platform/provider.html",
 		"preventQuitOnLastWindowClosed": true,
 		"permissions": {
 			"System": {
@@ -62,7 +62,7 @@
 	"shortcut": {
 		"company": "OpenFin",
 		"description": "A way of showing examples of what OpenFin can do.",
-		"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+		"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 		"name": "Workspace Platform Starter - v13.0.0",
 		"target": ["desktop", "start-menu"]
 	},
@@ -81,11 +81,11 @@
 			"autoShow": ["dock", "home"]
 		},
 		"platformProvider": {
-			"rootUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master",
+			"rootUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter",
 			"sharing": true,
 			"interop": {
 				"intentResolver": {
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/windows/intents/instance-picker.html",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/windows/intents/instance-picker.html",
 					"height": 715,
 					"width": 665,
 					"fdc3InteropApi": "2.0"
@@ -97,7 +97,7 @@
 					"description": "If you can not find an application to support your action please check the instances associated with this entry to see if it satisfies your need.",
 					"icons": [
 						{
-							"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico"
+							"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico"
 						}
 					],
 					"publisher": "Multiple",
@@ -154,18 +154,18 @@
 		},
 		"appProvider": {
 			"endpointIds": [
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-contact.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-expero.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-interop.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-manager.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-native.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-dev-extensions.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-preload.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/apps-tools.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/apps.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/apps-fdc3-1-2.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/apps-fdc3-2-0.json"
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-contact.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-expero.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-interop.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-manager.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-native.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-dev-extensions.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-preload.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/apps-tools.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/apps.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/apps-fdc3-1-2.json",
+				"https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/apps-fdc3-2-0.json"
 			],
 			"cacheDurationInSeconds": 10,
 			"cacheDurationInMinutes": 0,
@@ -191,13 +191,13 @@
 					"title": "Local Storage",
 					"enabled": true,
 					"id": "local-storage",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/endpoint/local-storage.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/endpoint/local-storage.bundle.js"
 				},
 				{
 					"title": "Context Processor",
 					"enabled": true,
 					"id": "context-processor",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/endpoint/example.context.processor.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/endpoint/example.context.processor.bundle.js"
 				}
 			],
 			"endpoints": [
@@ -249,9 +249,9 @@
 		"browserProvider": {
 			"windowOptions": {
 				"title": "Browser Starter",
-				"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
-				"newTabUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/views/platform/new-tab/new-tab.html",
-				"newPageUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/views/platform/new-tab/new-tab.html"
+				"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
+				"newTabUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/views/platform/new-tab/new-tab.html",
+				"newPageUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/views/platform/new-tab/new-tab.html"
 			},
 			"windowPositioningStrategy": {
 				"x": 30,
@@ -351,7 +351,7 @@
 						"type": "Custom",
 						"tooltip": "Change Opacity",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 						"action": {
 							"id": "change-opacity",
 							"customData": {
@@ -368,7 +368,7 @@
 						"type": "Custom",
 						"tooltip": "Restore Opacity",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 						"action": {
 							"id": "restore-opacity",
 							"customData": {
@@ -385,7 +385,7 @@
 						"type": "Custom",
 						"tooltip": "Toggle Scheme",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/theme.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/theme.svg",
 						"action": {
 							"id": "toggle-scheme",
 							"customData": {}
@@ -400,7 +400,7 @@
 						"type": "Custom",
 						"tooltip": "Show Home",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/search.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/search.svg",
 						"action": {
 							"id": "home-show",
 							"customData": {}
@@ -414,7 +414,7 @@
 						"type": "Custom",
 						"tooltip": "Toggle Notification Center",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/bell.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/bell.svg",
 						"action": {
 							"id": "notification-toggle",
 							"customData": {}
@@ -428,7 +428,7 @@
 						"type": "Custom",
 						"tooltip": "Pin this window",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/pin.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/pin.svg",
 						"action": {
 							"id": "pin-window",
 							"customData": {
@@ -445,7 +445,7 @@
 						"type": "Custom",
 						"tooltip": "Unpin this window",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/pin-vertical.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/pin-vertical.svg",
 						"action": {
 							"id": "unpin-window",
 							"customData": {
@@ -490,7 +490,7 @@
 						"type": "Custom",
 						"tooltip": "Share",
 						"disabled": false,
-						"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/share.svg",
+						"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/share.svg",
 						"action": {
 							"id": "share",
 							"customData": {}
@@ -512,7 +512,7 @@
 				{
 					"id": "default",
 					"label": "Default",
-					"logoUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"logoUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"default": "dark",
 					"palettes": {
 						"light": {
@@ -578,14 +578,14 @@
 		"homeProvider": {
 			"id": "workspace-platform-starter",
 			"title": "Workspace Platform Starter",
-			"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+			"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 			"queryMinLength": 3,
 			"queryAgainst": ["title"]
 		},
 		"storefrontProvider": {
 			"id": "workspace-platform-starter",
 			"title": "Workspace Platform Starter",
-			"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+			"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 			"landingPage": {
 				"hero": {
 					"title": "Custom Hero Title",
@@ -595,7 +595,7 @@
 						"tags": ["hero"]
 					},
 					"image": {
-						"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/superhero-unsplash.jpg"
+						"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/superhero-unsplash.jpg"
 					}
 				},
 				"topRow": {
@@ -605,7 +605,7 @@
 							"title": "Expero",
 							"description": "A collection of example views from Expero showing the power of interop and context sharing.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-1-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-1-unsplash.jpg"
 							},
 							"tags": ["expero"],
 							"buttonTitle": "View"
@@ -614,7 +614,7 @@
 							"title": "Dev Tools",
 							"description": "A collection of developer tools that can aid with building and debugging OpenFin applications.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-2-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-2-unsplash.jpg"
 							},
 							"tags": ["tools"],
 							"buttonTitle": "View"
@@ -623,7 +623,7 @@
 							"title": "Learning Resource",
 							"description": "A collection of developer documents that can aid with building and debugging OpenFin applications.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-3-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-3-unsplash.jpg"
 							},
 							"tags": ["page"],
 							"buttonTitle": "View"
@@ -641,7 +641,7 @@
 							"title": "Views",
 							"description": "A collection of views made available through our catalog.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-4-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-4-unsplash.jpg"
 							},
 							"tags": ["view"],
 							"buttonTitle": "View"
@@ -650,7 +650,7 @@
 							"title": "Web Apps",
 							"description": "A collection of web apps built using OpenFin.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-5-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-5-unsplash.jpg"
 							},
 							"tags": ["manifest"],
 							"buttonTitle": "View"
@@ -659,7 +659,7 @@
 							"title": "Native Apps",
 							"description": "A collection of native apps made available through our catalog.",
 							"image": {
-								"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/store/coding-6-unsplash.jpg"
+								"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/store/coding-6-unsplash.jpg"
 							},
 							"tags": ["native"],
 							"buttonTitle": "View"
@@ -709,7 +709,7 @@
 			],
 			"footer": {
 				"logo": {
-					"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"src": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"size": "32"
 				},
 				"text": "Welcome to the OpenFin Sample Footer",
@@ -728,7 +728,7 @@
 		"dockProvider": {
 			"id": "workspace-platform-starter",
 			"title": "Workspace Platform Starter",
-			"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+			"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 			"workspaceComponents": {
 				"hideHomeButton": false,
 				"hideWorkspacesButton": false,
@@ -748,7 +748,7 @@
 				{
 					"display": "group",
 					"tooltip": "Manager",
-					"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/images/icon-gradient.png",
+					"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/images/icon-gradient.png",
 					"tags": ["manager"]
 				}
 			],
@@ -765,7 +765,7 @@
 				},
 				{
 					"tooltip": "Social",
-					"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/share.svg",
+					"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/share.svg",
 					"options": [
 						{
 							"tooltip": "Twitter",
@@ -789,7 +789,7 @@
 				},
 				{
 					"tooltip": "Window Visibility",
-					"iconUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/icons/{theme}/{scheme}/windows.svg",
+					"iconUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/icons/{theme}/{scheme}/windows.svg",
 					"options": [
 						{
 							"tooltip": "Show All Windows",
@@ -812,21 +812,21 @@
 		"notificationProvider": {
 			"id": "workspace-platform-starter",
 			"title": "Workspace Platform Starter",
-			"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico"
+			"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico"
 		},
 		"integrationProvider": {
-			"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+			"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 			"isManagementEnabled": false,
 			"command": "integrations",
 			"commandDescription": "Allows the management of integrations for this platform. You can decide whether enabled integrations should be included when a query is entered.",
 			"modules": [
 				{
 					"id": "apps",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Apps",
 					"description": "Search Applications",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/integrations/apps.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/integrations/apps.bundle.js",
 					"data": {
 						"manifestTypeMapping": {
 							"view": {
@@ -890,27 +890,27 @@
 				},
 				{
 					"id": "workspaces",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Workspaces",
 					"description": "Manage workspaces",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/integrations/workspaces.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/integrations/workspaces.bundle.js",
 					"data": {
 						"images": {
-							"workspace": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/icons/{scheme}/workspace.svg"
+							"workspace": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/icons/{scheme}/workspace.svg"
 						}
 					}
 				},
 				{
 					"id": "pages",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Pages",
 					"description": "Manage Pages",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/integrations/pages.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/integrations/pages.bundle.js",
 					"data": {
 						"images": {
-							"page": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/icons/{scheme}/page.svg"
+							"page": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/icons/{scheme}/page.svg"
 						}
 					}
 				},
@@ -935,30 +935,30 @@
 				},
 				{
 					"id": "about",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "About",
 					"description": "Provides information about this platform.",
 					"enabled": true,
 					"excludeFromSourceFilter": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/about.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/about.bundle.js",
 					"data": {}
 				},
 				{
 					"id": "quote",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Quote Provider",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/integrations/quote.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/integrations/quote.bundle.js",
 					"data": {
-						"rootUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/data/quotes/"
+						"rootUrl": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/data/quotes/"
 					}
 				},
 				{
 					"id": "emoji",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Emoji Provider",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/integrations/emoji.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/integrations/emoji.bundle.js",
 					"data": {}
 				}
 			]
@@ -969,7 +969,7 @@
 					"enabled": true,
 					"id": "interop",
 					"title": "Init Options Interop",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/init-options/interop.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/init-options/interop.bundle.js",
 					"data": {
 						"supportedActions": ["raise-intent", "share-context"]
 					}
@@ -978,7 +978,7 @@
 					"enabled": true,
 					"id": "launch-app",
 					"title": "Init Options Launch App",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/init-options/launch-app.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/init-options/launch-app.bundle.js",
 					"data": {
 						"supportedActions": ["launch-app"],
 						"supportedManifestTypes": [
@@ -999,7 +999,7 @@
 					"enabled": true,
 					"id": "console",
 					"title": "Console Logger",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/log/console.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/log/console.bundle.js"
 				}
 			]
 		},
@@ -1009,23 +1009,23 @@
 					"enabled": true,
 					"id": "opacity",
 					"title": "Opacity Action",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/actions/opacity.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/actions/opacity.bundle.js"
 				},
 				{
 					"enabled": true,
 					"id": "developer-actions",
 					"title": "Developer Actions",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/developer.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/developer.bundle.js"
 				},
 				{
 					"enabled": true,
 					"id": "about-actions",
 					"title": "About Actions",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/about.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/about.bundle.js",
 					"data": {
 						"windowOptions": {
 							"name": "about",
-							"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/common/windows/version/about.html",
+							"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/common/windows/version/about.html",
 							"defaultCentered": true,
 							"showTaskbarIcon": false,
 							"autoShow": true,
@@ -1041,13 +1041,13 @@
 					"enabled": true,
 					"id": "page-actions",
 					"title": "Page Actions",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/pages.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/pages.bundle.js"
 				},
 				{
 					"enabled": true,
 					"id": "window-actions",
 					"title": "Window Actions",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/windows.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/windows.bundle.js"
 				}
 			]
 		},
@@ -1057,7 +1057,7 @@
 					"enabled": true,
 					"id": "about-conditions",
 					"title": "About Conditions",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/about.bundle.js"
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/about.bundle.js"
 				}
 			]
 		},
@@ -1113,7 +1113,7 @@
 					"enabled": true,
 					"id": "analytics.console",
 					"title": "Console Analytics",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/analytics/console.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/analytics/console.bundle.js",
 					"data": {
 						"eventLogLevel": "info"
 					}
@@ -1122,7 +1122,7 @@
 					"enabled": true,
 					"id": "analytics.dev.channel",
 					"title": "Analytics Dev Channel",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/developer.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/developer.bundle.js",
 					"data": {}
 				}
 			]
@@ -1134,7 +1134,7 @@
 			},
 			"versionWindow": {
 				"name": "versioning",
-				"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/windows/version/version.html",
+				"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/windows/version/version.html",
 				"defaultCentered": true,
 				"showTaskbarIcon": false,
 				"autoShow": true,
@@ -1154,34 +1154,34 @@
 					"enabled": true,
 					"id": "developer-menus",
 					"title": "Developer Menus",
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/developer.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/developer.bundle.js",
 					"data": {}
 				},
 				{
 					"id": "about",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "About",
 					"description": "Provides information about this platform.",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/about.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/about.bundle.js",
 					"data": {}
 				},
 				{
 					"id": "pages",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Pages",
 					"description": "Provides additional menu options for pages.",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/pages.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/pages.bundle.js",
 					"data": {}
 				},
 				{
 					"id": "windows",
-					"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/favicon.ico",
+					"icon": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/favicon.ico",
 					"title": "Windows",
 					"description": "Provides additional menu options for windows.",
 					"enabled": true,
-					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter-package-config/master/js/modules/composite/windows.bundle.js",
+					"url": "https://built-on-openfin.github.io/workspace-starter/workspace/v13.0.0/workspace-platform-starter/js/modules/composite/windows.bundle.js",
 					"data": {}
 				}
 			]
